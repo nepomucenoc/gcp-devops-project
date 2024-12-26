@@ -1,4 +1,6 @@
 # Docker flask application
+![Captura de tela 2024-12-26 140546](https://github.com/user-attachments/assets/c06aa809-fbb6-4b7a-a60c-d35e1592d427)
+
 
 GCP DevOps refers to the practice of implementing DevOps principles and practices using Google Cloud Platform (GCP) services and tools. DevOps is a set of practices that combines software development (Dev) and IT operations (Ops), aiming to shorten the systems development life cycle and provide continuous delivery with high software quality. GCP offers a range of cloud services that support the automation, collaboration, integration, and speed that DevOps emphasizes. These services facilitate various DevOps processes including but not limited to:
 
